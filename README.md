@@ -1,1 +1,1 @@
-# nutrition-label
+Created a nutrition label for Bad Website Club's bootcamp using [freecodecamp's Responsive Web Design curriculum]([url](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-1)https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-1).
